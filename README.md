@@ -1,0 +1,2 @@
+# docker_latex
+dockerでlatexファイルを作成するテンプレート
